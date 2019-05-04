@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="hint_in">Your height (in)</string>
+    <string name="hint_libs">Your weight (libs)</string>
+    <string name="hint_m">Your height (M)</string>
+    <string name="hint_kilos">Your weight (Kilos)</string>
+</resources>
